@@ -3,7 +3,7 @@
 """
 Created on Sat Dec 12 15:23:50 2020
 
-@author: ayca22
+@author: A.Baran Ertemir
 """ 
 
 class tckimlik():
